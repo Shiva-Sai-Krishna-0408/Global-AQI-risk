@@ -1,0 +1,5 @@
+## Data Sources
+- [WHO Most Polluted Cities](https://www.kaggle.com/datasets/rajkumarpandey02/worlds-most-air-polluted-countries-cities)
+- [CO2 Emissions Per Capita](https://ourworldindata.org/grapher/co-emissions-per-capita)
+- [Renewable Energy Share](https://ourworldindata.org/grapher/share-electricity-renewables)
+- [WHO Death Rate from Air Pollution](https://ourworldindata.org/grapher/death-rate-ambient-air-pollution)
