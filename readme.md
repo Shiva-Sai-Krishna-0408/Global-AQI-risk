@@ -10,6 +10,7 @@ This project pulls real-time air quality data from the OpenAQ API, and uses seve
 The system currently monitors 25 countries over the world, classifying each country by the average of PM2.5, PM10, Co2 Emissions, Renewable energy production per country.
 
 ```
+```
 Tech Stack
 
 Data Collection: Python, Requests, OpenAQ API
@@ -47,6 +48,7 @@ Features engineered: WHO classified normalized pollution scores, WHO-aligned ris
 Combined risk score calculated as weighted average of normalized pm25_avg,pm10_avg,co2_avg,ren_avg scores (0-100 scale)
 Random Forest Regressor trained to predict death rates of the countries considering target variable from real-world data.
 
+```
 ```
 Results
 Dataset: 25 Countries with complete PM2.5, PM10, CO2 Emission, Renewable Energy production data.
